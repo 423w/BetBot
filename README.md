@@ -1,2 +1,2 @@
 # BetBot
-Build a tool to leverage ML for quantitative sports betting analysis
+Building a tool to leverage ML for quantitative sports betting analysis
